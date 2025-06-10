@@ -22,8 +22,8 @@ A simple, modular RESTful API built with Flask for managing bookings in a fitnes
 
 🚀 Getting Started
 1. Clone the repo:
-   git clone https://github.com/yourusername/fitness_booking_api.git
-   cd fitness_booking_api
+   git clone https://github.com/ashiqs-dev/fitness_booking.git
+   cd fitness_booking
 
 2. Create a virtual environment:
    python -m venv venv
