@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+instance/
+.env
+.logs
+logs/
+fit_venv/      
