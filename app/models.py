@@ -1,4 +1,3 @@
-# SQLAlchemy models go here
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
 
